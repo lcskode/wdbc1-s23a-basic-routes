@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lcskode/wdbc1-s23a-basic-routes/issues"
   },
-  "homepage": "https://github.com/lcskode/wdbc1-s23a-basic-routes#readme"
+  "homepage": "https://github.com/lcskode/wdbc1-s23a-basic-routes#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
