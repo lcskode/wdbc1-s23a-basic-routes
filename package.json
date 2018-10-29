@@ -1,0 +1,19 @@
+{
+  "name": "wdbc1-s23a-basic-routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcskode/wdbc1-s23a-basic-routes.git"
+  },
+  "author": "lcs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcskode/wdbc1-s23a-basic-routes/issues"
+  },
+  "homepage": "https://github.com/lcskode/wdbc1-s23a-basic-routes#readme"
+}
